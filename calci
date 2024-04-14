@@ -1,0 +1,13 @@
+val1=int(input("enter the value 1:)
+val2=int(input("enter the value 2:)
+opr=input("enter the operator..)+,_,*)")
+ if opr=="+":
+  print(val1+val2)
+ elif=="-":
+  print(bal1-val2)
+elif=="*":
+  print(val1*val2)
+else:
+print(Wrong input,program terminated")
+
+  
